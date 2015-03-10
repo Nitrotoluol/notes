@@ -4,3 +4,4 @@ https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks
 
 http://blog.geek.km.ua/2011/03/17/izolyatsiya-virtualnyih-hostov-s-ispol/
 http://habrahabr.ru/post/168739/
+http://nkt.me/2013/10/28/configure-vps-on-ubuntu/
